@@ -118,7 +118,6 @@ console.log('-------------------------------------------------------------------
 console.log('Excercise 7: Armstrong number')
 let armstr = (armschk:number) =>
 {
-    console.log(armschk);
 return new Promise(function(resolve,reject){
 
     if(armschk==0)
